@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.title {
+    font-family: 'Poiret One', cursive;
+    font-size: 6rem;
+    color: white;
+    padding: 20px 0px 20px 0px;    
+}
+
+
+h2 {
+    font-family: 'Poiret One', cursive;
+    font-size: 2rem;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+
+}
