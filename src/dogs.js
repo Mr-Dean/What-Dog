@@ -18,7 +18,7 @@ export const dogs = [
         breed: 'Great Dane',
         size: '71-86cm',
         shedding: 'Low',
-        character: 'Gentle giants, moderately playful, affectionate and good with children, will guard their home, some individuals can be aggressive with dogs they do not know.'  
+        character: 'Gentle giants, moderately playful, affectionate and good with children, will guard their home, can be aggressive with dogs they do not know.'  
     },
     {   
         img: './images/boxer.png',
@@ -32,7 +32,7 @@ export const dogs = [
         breed: 'Golden Retriever',
         size: '51-61cm',
         shedding: 'Moderate',
-        character: "Even-tempered, intelligent, affectionate, playful, gentle with children, get along well with other pets and strangers, eager to please, respond so well to obedience training, popular service dogs. like to work, whether it involves hunting birds or fetching their guardian's slippers, lack guard instincts, some will let you know when strangers are approaching."
+        character: "Even-tempered, intelligent, affectionate, playful, gentle with children, get along well with other pets and strangers, eager to please, respond so well to obedience training, popular service dogs, lack guard instincts."
     },
     {
         img: './images/labrador-retriever.png',

@@ -2,13 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import CardList from './CardList';
-import { dogs } from './dogs';
+import App from './App';
 import 'tachyons';
 
 ReactDOM.render(
   <React.StrictMode>
-    <CardList dogs={dogs}/>
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
