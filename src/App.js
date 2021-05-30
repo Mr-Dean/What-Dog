@@ -23,7 +23,8 @@ class App extends React.Component{
         })
         return (
             <div className='tc'>
-                <h1 className='title ma2'>What Dog?</h1>
+                <h1 className='title mb1'>What Dog?</h1>
+                <p className='tagline'>Find the breed thats right for you...</p>
                 <SearchBox searchChange={this.onSearchChange} />
                 <CardList dogs={filteredDogs} />
             </div>

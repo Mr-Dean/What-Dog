@@ -44,44 +44,44 @@ export const dogs = [
     {
         img: './images/poodle.png',
         breed: 'Poodle',
-        size: '',
-        shedding: '',
-        temperament: ''  
+        size: '24-62cm',
+        shedding: 'Low',
+        character: 'Intelligent, easy to train, lively, active, fun-loving dogs, thrive on attention, smaller poodles can be aggressive to people outside their families, can be protective of their families and homes, require exercise and training to be at their best as companion dogs.'  
     },
     {
         img: './images/irish-setter.png',
         breed: 'Irish Setter',
-        size: '',
-        shedding: '',
-        temperament: ''  
+        size: '55-67cm',
+        shedding: 'Moderate',
+        character: 'Well known for their "rollicking" attitude, lively, intelligent, great sense of mischief, bred to run hard all day long over rough terrain, good attitude for training, can be chewers, barkers and diggers, outgoing and friendly, some caution introducing them to smaller house pets.'  
     },
     {
         img: './images/vizsla.png',
         breed: 'Vizsla',
-        size: '',
-        shedding: '',
-        temperament: '' 
+        size: '53-64cm',
+        shedding: 'Low-Moderate',
+        character: 'Enjoy long walks, jogging, playing fetch, thrive on human companionship, like to be touching or touched by their people, can suffer from separation anxiety, lively, gentle, affectionate, above-average learning ability, needs to be trained.' 
     },
     {
         img: './images/newfoundland.png',
         breed: 'Newfoundland',
-        size: '',
-        shedding: '',
-        temperament: '' 
+        size: '63-74cm',
+        shedding: 'Moderate',
+        character: 'Despite the size, is rather docile, needs considerable space for exercise, watchful, trustworthy, tolerant of the behaviour of children, protective, known to put themselves physically between their family and any stranger, not barkers but willing to protect, intelligent.'
     },
     {
         img: './images/border-collie.png',
         breed: 'Border Collie',
-        size: '',
-        shedding: '',
-        temperament: '' 
+        size: '46-56cm',
+        shedding: 'High',
+        character: 'Active, working dogs best suited to country living. Needs activity and company or can become unhappy and destructive. Highly intelligent, likes praise, herding instincts, protective of family, excellent watchdogs, can be reserved with strangers.' 
     },
     {
         img: './images/bull-terrier.png',
         breed: 'Bull Terrier',
-        size: '',
-        shedding: '',
-        temperament: '' 
+        size: '40-55cm',
+        shedding: 'Low',
+        character: 'Bull terriers are gentle, affectionate and playful with family members. Loyal and will guard the family. Needs training, proper precautions around strangers, children, and other animals is essential. Needs exercise and attention or can be destructive.' 
     },
     {
         img: './images/beagle.png',
