@@ -1,6 +1,7 @@
 import React from 'react';
 import CardList from './CardList';
 import SearchBox from './SearchBox';
+import Scroll from './Scroll';
 import { dogs } from './dogs';
 import './App.css';
 
@@ -23,10 +24,12 @@ class App extends React.Component{
         })
         return (
             <div className='tc'>
-                <h1 className='title mb1'>What Dog?</h1>
-                <p className='tagline'>Find the breed thats right for you...</p>
+                <h1 className='title mb1 mt1'>What Dog?</h1>
+                <p className='tagline mt1'>Find the breed thats right for you...</p>
                 <SearchBox searchChange={this.onSearchChange} />
-                <CardList dogs={filteredDogs} />
+                <Scroll>
+                    <CardList dogs={filteredDogs} />
+                </Scroll>
             </div>
         );
     }

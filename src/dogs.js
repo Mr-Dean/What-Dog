@@ -86,30 +86,30 @@ export const dogs = [
     {
         img: './images/beagle.png',
         breed: 'Beagle',
-        size: '',
-        shedding: '',
-        temperament: '' 
+        size: '33-41cm',
+        shedding: 'Low-Moderate',
+        character: 'Intelligent, even tempered, amiable, determined, excitable, gentle, like affection, prefer company, if left alone, may howl and be destructive, can be difficult to housebreak and obedience train.' 
     },
     {
         img: './images/bulldog.png',
         breed: 'Bulldog',
-        size: '',
-        shedding: '',
-        temperament: '' 
+        size: '31-40cm',
+        shedding: 'Low',
+        character: 'Sweet, gentle disposition, dependable and predictable, wonderful family pet, loving to most children, actively solicit human attention, fine watchdogs, need only a moderate amount of exercise.' 
     },
     {
         img: './images/bernese-mountain-dog.png',
         breed: 'Bernese Mountain Dog',
-        size: '',
-        shedding: '',
-        temperament: '' 
+        size: '58-70cm',
+        shedding: 'High',
+        character: 'Alert and good-natured, should be obedience trained, natural instincts to guard, good watchdog, will enjoy some physical work and a job to do, intelligent, affectionate, loyal, faithful and strong.' 
     },
     {
         img: './images/alaskan-malamute.png',
         breed: 'Alaskan Malamute',
-        size: '',
-        shedding: '',
-        temperament: '' 
+        size: '56-66cm',
+        shedding: 'High',
+        character: 'Playful, friendly, affectionate, devoted, dignified, loyal, needs training, stubborn, willful, needs lots of exercise, vocal, howler, very clever, strong, possessiveness of food, requires a confident owner.' 
     },
     {
         img: './images/boston-terrier.png',

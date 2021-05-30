@@ -5,7 +5,7 @@ import './card.css';
 const Card = ({ img, breed, size, shedding, character }) => {
     
     return (
-            <div className='dib br3 pa3 ma2 grow bw2 shadow-5 w-30 mh3 tc bg-white'>
+            <div className='dib br3 pa3 ma2 grow bw2 shadow-5 tc bg-white card'>
             <img alt={breed} src={img} />
             <div>
                 <h2>{breed}</h2>
