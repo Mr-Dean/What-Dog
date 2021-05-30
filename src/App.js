@@ -2,6 +2,7 @@ import React from 'react';
 import CardList from './CardList';
 import SearchBox from './SearchBox';
 import Scroll from './Scroll';
+import ErrorBoundary from './ErrorBoundary';
 import { dogs } from './dogs';
 import './App.css';
 
@@ -28,7 +29,9 @@ class App extends React.Component{
                 <p className='tagline mt1'>Find the breed thats right for you...</p>
                 <SearchBox searchChange={this.onSearchChange} />
                 <Scroll>
-                    <CardList dogs={filteredDogs} />
+                    <ErrorBoundary>
+                        <CardList dogs={filteredDogs} />
+                    </ErrorBoundary>
                 </Scroll>
             </div>
         );
