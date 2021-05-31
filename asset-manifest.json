@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/What-Dog/static/css/main.b508b897.chunk.css",
+    "main.js": "/What-Dog/static/js/main.6d7ca8a9.chunk.js",
+    "main.js.map": "/What-Dog/static/js/main.6d7ca8a9.chunk.js.map",
+    "runtime-main.js": "/What-Dog/static/js/runtime-main.730c4e9e.js",
+    "runtime-main.js.map": "/What-Dog/static/js/runtime-main.730c4e9e.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/What-Dog/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.698b3f3b.chunk.js": "/What-Dog/static/js/2.698b3f3b.chunk.js",
+    "static/js/2.698b3f3b.chunk.js.map": "/What-Dog/static/js/2.698b3f3b.chunk.js.map",
+    "static/js/3.5c9937ec.chunk.js": "/What-Dog/static/js/3.5c9937ec.chunk.js",
+    "static/js/3.5c9937ec.chunk.js.map": "/What-Dog/static/js/3.5c9937ec.chunk.js.map",
+    "index.html": "/What-Dog/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/What-Dog/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.b508b897.chunk.css.map": "/What-Dog/static/css/main.b508b897.chunk.css.map",
+    "static/js/2.698b3f3b.chunk.js.LICENSE.txt": "/What-Dog/static/js/2.698b3f3b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/What-Dog/static/media/paw-bg.1a86ab8c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.730c4e9e.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.698b3f3b.chunk.js",
+    "static/css/main.b508b897.chunk.css",
+    "static/js/main.6d7ca8a9.chunk.js"
+  ]
+}
